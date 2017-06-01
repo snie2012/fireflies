@@ -1,5 +1,5 @@
 ### [Fireflies](http://ncase.me/fireflies-zh/)
 
-A Chinese tranlation of Nicky Case's Fireflies.
+A Chinese translation of Nicky Case's Fireflies.
 
-Original repo: [Fireflies](https://github.com/ncase/fireflies)
+Original Github repo: [Fireflies](https://github.com/ncase/fireflies)
